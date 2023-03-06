@@ -3,7 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://mobile.twitter.com/you_koutaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://mobile.twitter.com/you_koutaku" height="30" width="40" /></a>
+<a href="https://twitter.com/you_koutaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://mobile.twitter.com/you_koutaku" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/YouKoutaku#1653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YouKoutaku#1653" height="30" width="40" /></a>
 </p>
 
